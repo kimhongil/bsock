@@ -87,7 +87,7 @@
 #   (if exif data changes, but image does not, then delta compression helps,
 #    so delta compression desirable when images are uniquely named, and not
 #    changed except for exif info)
-[attr] nopack binary -delta
+[attr]nopack binary -delta
 # media
 *.jpg  nopack
 *.JPG  nopack
