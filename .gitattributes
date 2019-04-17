@@ -97,8 +97,6 @@
 *.PNG  nopack
 *.tiff nopack
 *.TIFF nopack
-*.bmp  nopack
-*.BMP  nopack
 *.flac nopack
 *.FLAC nopack
 *.mp3  nopack
